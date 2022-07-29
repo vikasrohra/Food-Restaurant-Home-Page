@@ -1,4 +1,4 @@
-# Street Style Landing Page
+# Food Restaurant Home Page
 
 ## Who am I?
 Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.

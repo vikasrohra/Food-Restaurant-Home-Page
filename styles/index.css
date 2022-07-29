@@ -67,6 +67,7 @@
     font-size: 22px;
     font-weight: bold;
     color: #ffffff;
+    cursor: pointer;
   }
   /* ------------------------------ */
   /* ---------- HERO ------------ */
@@ -94,6 +95,7 @@
     font-weight: bold;
     border: none;
     margin-top: 40px;
+    cursor: pointer;
   }
   
   .bottom {

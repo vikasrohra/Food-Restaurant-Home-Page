@@ -15,6 +15,7 @@ Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.
  - I got to know the real power of HTML and CSS.
  - How to position elements on a webpage.
  - How to create a good looking navigation bar in minutes.
+ - How to add background images and how to configure them.
 
 <br />
 
